@@ -22,6 +22,12 @@ SSRF
 
 - target_blank_vuln
 
+新Tab页面跳转漏洞
+
+- apache_trace_httponly_cookie
+
+Apache Trace HttpOnly Cookie 漏洞(IE6可用)
+
 Target_Blank 跳转漏洞
 
 - upload
